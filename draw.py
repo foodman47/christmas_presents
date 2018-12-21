@@ -28,13 +28,13 @@ for i in collection:
 
 # parameters
 message = MIMEMultipart();
-message['From'] = "fooodman47@gmail.com"
+message['From'] = "***********@gmail.com"
 message['Subject'] = "Christmas present"
 
 # connection tls server
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
-server.login("**********@gmail.com", "****)
+server.login("**********@gmail.com", "*********")
 
 # random paramter
 length = len(data)
