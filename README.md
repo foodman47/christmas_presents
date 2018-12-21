@@ -11,7 +11,7 @@
 
 ### How to use it
 
-- write an outgoing email address and a a passing password in draw.py
+- write an outgoing email address and a passing password in draw.py
 - access the app from http://localhost:3000/ or your public IP address ($ip addr show)
 
 ### Further improvements 
@@ -20,3 +20,4 @@
 - enable more than one gift pp to be offer
 - send the draw result through mobile number
 - implement a checker for the validity of email addresses
+- host it? 
