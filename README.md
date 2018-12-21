@@ -20,4 +20,3 @@
 - enable more than one gift pp to be offer
 - send the draw result through mobile number
 - implement a checker for the validity of email addresses
-- host it? 
