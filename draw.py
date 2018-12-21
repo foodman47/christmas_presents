@@ -34,7 +34,7 @@ message['Subject'] = "Christmas present"
 # connection tls server
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
-server.login("fooodman47@gmail.com", "Juliti47.")
+server.login("**********@gmail.com", "****)
 
 # random paramter
 length = len(data)
